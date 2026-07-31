@@ -37,13 +37,13 @@ $ ./status
 | 实验 | 状态 | 收入 | 入口 |
 |---|---|---|---|
 | #1 自媒体选题自动化 | 🔬 验证中 | $0 | [Issue #1](https://github.com/new-ai-man/new-ai-man/issues/1) |
-| #2 内容生产流水线 | 💡 想法 | — | [Projects 看板](https://github.com/users/new-ai-man/projects) |
+| #2 内容生产流水线 | 💡 想法 | — | [Projects 看板](https://github.com/users/new-ai-man/projects/1) |
 
 ---
 
 ## 🧭 实验管线
 
-从想法到收入的完整流程，在 **[Projects 看板](https://github.com/users/new-ai-man/projects)** 上跟踪，每张卡片一次实验：
+从想法到收入的完整流程，在 **[Projects 看板](https://github.com/users/new-ai-man/projects/1)** 上跟踪，每张卡片一次实验：
 
 ```
 💡 想法 → 🔬 验证 → ⚙️ 执行 → 💰 盈利
@@ -106,7 +106,7 @@ $ uptime
 
 <p align="center">
   <a href="https://github.com/new-ai-man/new-ai-man/wiki"><img src="https://img.shields.io/badge/Playbook-Wiki-181717?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/users/new-ai-man/projects"><img src="https://img.shields.io/badge/Roadmap-Projects-2DA44E?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/users/new-ai-man/projects/1"><img src="https://img.shields.io/badge/Roadmap-Projects-2DA44E?style=flat-square&logo=github" /></a>
   <a href="https://github.com/new-ai-man/new-ai-man/discussions"><img src="https://img.shields.io/badge/Discuss-Discussions-0969DA?style=flat-square&logo=github" /></a>
   <a href="https://github.com/new-ai-man/new-ai-man/issues/new?labels=client-prospect"><img src="https://img.shields.io/badge/Hire_Me-Open_Issue-CB2431?style=flat-square&logo=github" /></a>
 </p>
