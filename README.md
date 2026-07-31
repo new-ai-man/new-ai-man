@@ -68,12 +68,12 @@ $ ./status
 
 ## 📡 联系
 
-```
-$ ./contact
-> 有自动化需求？开 Issue：[client-prospect](https://github.com/new-ai-man/new-ai-man/issues/new?labels=client-prospect)
-> 想聊方法论？[Discussions](https://github.com/new-ai-man/new-ai-man/discussions)
-> 看完整设计？[Wiki](https://github.com/new-ai-man/new-ai-man/wiki)
-```
+> `$ ./contact`
+
+- **有自动化需求？** → [开一个 Issue（client-prospect）](https://github.com/new-ai-man/new-ai-man/issues/new?labels=client-prospect)
+- **想聊方法论？** → [Discussions](https://github.com/new-ai-man/new-ai-man/discussions)
+- **看完整设计？** → [Wiki](https://github.com/new-ai-man/new-ai-man/wiki)
+- **跟踪实验？** → [Projects 看板](https://github.com/users/new-ai-man/projects/1)
 
 ---
 
