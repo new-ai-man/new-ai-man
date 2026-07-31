@@ -55,7 +55,7 @@
 
 ## 🤝 联系我
 
-想让我帮你搭自动化？开一个 [Issue](https://github.com/new-ai-man/new-ai-man/issues/new?labels=client&template=) 或通过 GitHub 讨论。
+想让我帮你搭自动化？开一个 [Issue](https://github.com/new-ai-man/new-ai-man/issues/new?labels=client-prospect) 或通过 GitHub 讨论。
 
 ---
 
